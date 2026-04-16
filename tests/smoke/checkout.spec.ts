@@ -30,7 +30,7 @@ test.describe('Checkout flow', () => {
     await cart.checkout();
     await checkout.fillInformation('Dina', 'Test', '12345');
 
-    //Finish
+    //Finish purchase
     await overview.finish();
     await overview.assertSuccess();
   });
