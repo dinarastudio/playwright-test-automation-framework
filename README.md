@@ -17,23 +17,6 @@ This project uses **SauceDemo** as the application under test to demonstrate rea
 - Playwright HTML Reporting
 
 
-## 📂 Project Structure
-
-.
-├── src/
-│   ├── pages/        # Page Object Models (POM)
-│   ├── data/         # Test data
-│   ├── fixtures/     # (Extendable for custom fixtures)
-│   └── utils/        # Helpers / utilities
-├── tests/
-│   ├── smoke/        # Critical user flows
-│   └── regression/   # Validation and edge cases
-├── .github/workflows/
-│   └── playwright.yml
-├── playwright.config.ts
-├── package.json
-└── README.md
-
 ---
 
 ## ✅ Test Coverage
