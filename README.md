@@ -119,6 +119,7 @@ Password: secret_sauce
 - Cross-browser execution in CI
 - Advanced reporting (Allure)
 - Accessibility testing (axe)
+- Test data enhancement
 - Test tagging strategy expansion (@regression, @sanity)
 
 ## 📄 License
